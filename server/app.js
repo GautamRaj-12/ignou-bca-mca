@@ -1,3 +1,4 @@
+require('./db/conn')
 const express = require('express')
 const app = express();
 
